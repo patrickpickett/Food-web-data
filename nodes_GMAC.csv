@@ -1,0 +1,19 @@
+name,group
+Algae,Algae
+Macrophytes,Macrophytes
+Cladocera,indirect
+Rotifers,indirect
+Detritus,Detritus
+Annelida*,indirect
+Diptera,indirect
+Ostracoda*,indirect
+Amphipoda,prey
+Copepoda,prey
+Ostracoda,prey
+Paratya,prey
+Corixidae,prey
+Ephemeroptera,prey
+Tricoptera,prey
+Coleoptera,prey
+Plant material,prey
+Annelida,prey
